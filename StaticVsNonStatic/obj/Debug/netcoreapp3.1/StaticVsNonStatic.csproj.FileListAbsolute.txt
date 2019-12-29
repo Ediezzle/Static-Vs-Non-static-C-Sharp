@@ -1,0 +1,11 @@
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\netcoreapp3.1\StaticVsNonStatic.exe
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\netcoreapp3.1\StaticVsNonStatic.deps.json
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\netcoreapp3.1\StaticVsNonStatic.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\netcoreapp3.1\StaticVsNonStatic.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\netcoreapp3.1\StaticVsNonStatic.dll
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\bin\Debug\netcoreapp3.1\StaticVsNonStatic.pdb
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\netcoreapp3.1\StaticVsNonStatic.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\netcoreapp3.1\StaticVsNonStatic.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\netcoreapp3.1\StaticVsNonStatic.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\netcoreapp3.1\StaticVsNonStatic.dll
+C:\Users\Dev Ops\source\repos\StaticVsNonStatic\StaticVsNonStatic\obj\Debug\netcoreapp3.1\StaticVsNonStatic.pdb

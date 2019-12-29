@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StaticVsNonStatic/1.0.0": {
+        "runtime": {
+          "StaticVsNonStatic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticVsNonStatic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
